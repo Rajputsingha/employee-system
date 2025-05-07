@@ -29,6 +29,7 @@ const AllTask = () => {
         <h2>Status</h2>
       </div>
     </div>
+    
   );
 };
 export default AllTask;
